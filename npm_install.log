@@ -1,0 +1,131 @@
+C:\Users\aqee\Downloads\gitForks>md FillTriangle
+
+C:\Users\aqee\Downloads\gitForks>cd FillTriangle
+
+C:\Users\aqee\Downloads\gitForks\FillTriangle>git clone https://github.com/microsoft/pxt-arcade.git
+Cloning into 'pxt-arcade'...
+remote: Enumerating objects: 32111, done.
+remote: Counting objects: 100% (2428/2428), done.
+remote: Compressing objects: 100% (177/177), done.
+remote: Total 32111 (delta 2331), reused 2282 (delta 2250), pack-reused 29683 eceiving objects: 100% (32111/32111), 349.43 MiBReceiving objects: 100% (32111/32111), 349.49 MiB | 1.97 MiB/s, done.
+Resolving deltas:   0% (0/19306)
+Resolving deltas: 100% (19306/19306), done.
+Checking out files: 100% (3604/3604), done.
+
+C:\Users\aqee\Downloads\gitForks\FillTriangle>git clone https://github.com/microsoft/pxt-common-packages.git
+Cloning into 'pxt-common-packages'...
+remote: Enumerating objects: 23480, done.
+remote: Counting objects: 100% (378/378), done.
+remote: Compressing objects: 100% (227/227), done.
+remote: Total 23480 (delta 190), reused 310 (delta 141), pack-reused 23102
+Receiving objects: 100% (23480/23480), 7.77 MiB | 780.00 KiB/s, done.
+Resolving deltas: 100% (15917/15917), done.
+Checking out files: 100% (1203/1203), done.
+
+C:\Users\aqee\Downloads\gitForks\FillTriangle>cd pxt-common-packages
+
+C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-common-packages>git checkout triangle-fill
+Switched to a new branch 'triangle-fill'
+Branch 'triangle-fill' set up to track remote branch 'triangle-fill' from 'origin'.
+
+C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-common-packages>npm install
+npm WARN deprecated applicationinsights-js@1.0.21: This package has been moved to @microsoft/applicationinsights-web. Please install that package instead for the latest updates & features
+npm WARN deprecated request@2.88.0: request has been deprecated, see https://github.com/request/request/issues/3142
+npm WARN deprecated puppeteer@13.0.1: < 19.2.0 is no longer supported
+npm WARN deprecated mkdirp@0.5.1: Legacy versions of mkdirp are no longer supported. Please update to mkdirp 1.x. (Note that the API surface has changed to use Promises in 1.x.)
+npm WARN deprecated har-validator@5.1.5: this library is no longer supported
+npm WARN deprecated querystring@0.2.0: The querystring API is considered Legacy. new code should use the URLSearchParams API instead.
+npm WARN deprecated svgo@1.3.2: This SVGO version is no longer supported. Upgrade to v2.x.x.
+npm WARN deprecated stable@0.1.8: Modern JS already guarantees Array#sort() is a stable sort, so this library is deprecated. See the compatibility table on MDN: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort#browser_compatibility
+
+> puppeteer@13.0.1 install C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-common-packages\node_modules\puppeteer
+> node install.js
+
+(node:20848) ExperimentalWarning: The fs.promises API is experimental
+Downloading Chromium r938248 - 174.1 Mb [====================] 100% 0.0s
+Chromium (938248) downloaded to C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-common-packages\node_modules\puppeteer\.local-chromium\win64-938248
+
+> @fortawesome/fontawesome-free@5.15.4 postinstall C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-common-packages\node_modules\@fortawesome\fontawesome-free
+> node attribution.js
+
+Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com
+License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+
+npm notice created a lockfile as package-lock.json. You should commit this file.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@~2.3.2 (node_modules\chokidar\node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.3.2: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+npm WARN @blockly/plugin-workspace-search@4.0.10 requires a peer of blockly@^6.20210701.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @blockly/keyboard-navigation@0.1.18 requires a peer of blockly@5.20210325.0 - 6 but none is installed. You must install peer dependencies yourself.
+npm WARN ws@8.2.3 requires a peer of bufferutil@^4.0.1 but none is installed. You must install peer dependencies yourself.
+npm WARN ws@8.2.3 requires a peer of utf-8-validate@^5.0.2 but none is installed. You must install peer dependencies yourself.
+npm WARN ws@8.11.0 requires a peer of bufferutil@^4.0.1 but none is installed. You must install peer dependencies yourself.
+npm WARN ws@8.11.0 requires a peer of utf-8-validate@^5.0.2 but none is installed. You must install peer dependencies yourself.
+
+added 705 packages from 1391 contributors and audited 706 packages in 250.529s
+found 15 vulnerabilities (7 moderate, 7 high, 1 critical)
+  run `npm audit fix` to fix them, or `npm audit` for details
+
+C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-common-packages>cd ..\pxt-arcade
+
+C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade>npm install
+npm WARN deprecated applicationinsights-js@1.0.21: This package has been moved to @microsoft/applicationinsights-web. Please install that package instead for the latest updates & features
+npm WARN deprecated request@2.88.0: request has been deprecated, see https://github.com/request/request/issues/3142
+npm WARN deprecated puppeteer@13.0.1: < 19.2.0 is no longer supported
+npm WARN deprecated mkdirp@0.5.1: Legacy versions of mkdirp are no longer supported. Please update to mkdirp 1.x. (Note that the API surface has changed to use Promises in 1.x.)
+npm WARN deprecated har-validator@5.1.5: this library is no longer supported
+npm WARN deprecated querystring@0.2.0: The querystring API is considered Legacy. new code should use the URLSearchParams API instead.
+npm WARN deprecated svgo@1.3.2: This SVGO version is no longer supported. Upgrade to v2.x.x.
+npm WARN deprecated stable@0.1.8: Modern JS already guarantees Array#sort() is a stable sort, so this library is deprecated. See the compatibility table on MDN: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort#browser_compatibility
+Downloading Chromium r938248 - 174.1 Mb [====================] 100% 0.0s
+Chromium (938248) downloaded to C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\puppeteer\.local-chromium\win64-938248.js
+
+> @fortawesome/fontawesome-free@5.15.4 postinstall C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\@fortawesome\fontawesome-free
+> node attribution.js
+
+Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com
+License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+
+npm notice created a lockfile as package-lock.json. You should commit this file.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: pxt-arcade-sim@github:microsoft/pxt-arcade-sim#v0.11.1 (node_modules\pxt-arcade-sim):
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: Error while executing:
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: C:\Program Files\Git\cmd\git.EXE ls-remote -h -t ssh://git@github.com/microsoft/pxt-arcade-sim.git
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY:
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: Host key verification failed.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fatal: Could not read from remote repository.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY:
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: Please make sure you have the correct access rights
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: and the repository exists.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY:
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: exited with error code: 128
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@~2.3.2 (node_modules\chokidar\node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.3.2: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+npm WARN @blockly/keyboard-navigation@0.1.18 requires a peer of blockly@5.20210325.0 - 6 but none is installed. You must install peer dependencies yourself.
+npm WARN @blockly/plugin-workspace-search@4.0.10 requires a peer of blockly@^6.20210701.0 but none is installed. You must install peer dependencies yourself.
+npm WARN ws@8.2.3 requires a peer of bufferutil@^4.0.1 but none is installed. You must install peer dependencies yourself.
+npm WARN ws@8.2.3 requires a peer of utf-8-validate@^5.0.2 but none is installed. You must install peer dependencies yourself.
+npm WARN ws@8.11.0 requires a peer of bufferutil@^4.0.1 but none is installed. You must install peer dependencies yourself.
+npm WARN ws@8.11.0 requires a peer of utf-8-validate@^5.0.2 but none is installed. You must install peer dependencies yourself.
+
+added 712 packages from 1400 contributors and audited 714 packages in 163.352s
+found 28 vulnerabilities (13 moderate, 13 high, 2 critical)
+  run `npm audit fix` to fix them, or `npm audit` for details
+
+
+C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade>npm link ../pxt-common-packages
+npm WARN @blockly/keyboard-navigation@0.1.18 requires a peer of blockly@5.20210325.0 - 6 but none is installed. You must install peer dependencies yourself.
+npm WARN @blockly/plugin-workspace-search@4.0.10 requires a peer of blockly@^6.20210701.0 but none is installed. You must install peer dependencies yourself.
+npm WARN ws@8.2.3 requires a peer of bufferutil@^4.0.1 but none is installed. You must install peer dependencies yourself.
+npm WARN ws@8.2.3 requires a peer of utf-8-validate@^5.0.2 but none is installed. You must install peer dependencies yourself.
+npm WARN ws@8.11.0 requires a peer of bufferutil@^4.0.1 but none is installed. You must install peer dependencies yourself.
+npm WARN ws@8.11.0 requires a peer of utf-8-validate@^5.0.2 but none is installed. You must install peer dependencies yourself.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.3.2 (node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.3.2: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+audited 706 packages in 9.321s
+found 15 vulnerabilities (7 moderate, 7 high, 1 critical)
+  run `npm audit fix` to fix them, or `npm audit` for details
+C:\Users\aqee\AppData\Roaming\npm\node_modules\pxt-common-packages -> C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-common-packages
+C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-common-packages -> C:\Users\aqee\AppData\Roaming\npm\node_modules\pxt-common-packages -> C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-common-packages
+
+C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade>
+

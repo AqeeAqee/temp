@@ -1,0 +1,329 @@
+C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade>pxt serve
+Using target arcade with build engine codal
+  target: v C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade
+  pxt-core: v C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-common-packages\sim...
+[run] cd C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-common-packages\sim; node ../node_modules/typescript/bin/tsc
+copying common-sim...
+building target.json in C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade...
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\animation
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\accelerometer
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\azureiot
+azureiot.ts(38,35): error TS2304: Cannot find name 'crypto'.
+
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\base
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\buttons
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\color
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\color-coded-tilemap
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\controller
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\controller---none
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\core
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\core---linux
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\core---nrf52
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\core---samd
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\core---stm32
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\core---rp2040
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\core---vm
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\corgio
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\d5prj
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\darts
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\device
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\edge-connector
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\esp32
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\f4prj
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\feather
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\game
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\game---light
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\hw
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\hw---n3
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\hw---n4
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\hw---rpi
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\hw---samd51
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\hw---stm32f401
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\hw---rp2040
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\hw---vm
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\keyboard
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\light
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\lightsensor
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\microphone
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\mixer
+playable.ts(36,9): error TS2304: Cannot find name 'game'.
+
+playable.ts(40,9): error TS2304: Cannot find name 'game'.
+
+soundEffect.ts(310,22): error TS2339: Property 'percentChance' does not exist on type 'typeof Math'.
+
+soundEffect.ts(320,67): error TS2339: Property 'percentChance' does not exist on type 'typeof Math'.
+
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\mixer---ext
+playable.ts(36,9): error TS2304: Cannot find name 'game'.
+
+playable.ts(40,9): error TS2304: Cannot find name 'game'.
+
+soundEffect.ts(310,22): error TS2339: Property 'percentChance' does not exist on type 'typeof Math'.
+
+soundEffect.ts(320,67): error TS2339: Property 'percentChance' does not exist on type 'typeof Math'.
+
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\mixer---linux
+playable.ts(36,9): error TS2304: Cannot find name 'game'.
+
+playable.ts(40,9): error TS2304: Cannot find name 'game'.
+
+soundEffect.ts(310,22): error TS2339: Property 'percentChance' does not exist on type 'typeof Math'.
+
+soundEffect.ts(320,67): error TS2339: Property 'percentChance' does not exist on type 'typeof Math'.
+
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\mixer---none
+playable.ts(36,9): error TS2304: Cannot find name 'game'.
+
+playable.ts(40,9): error TS2304: Cannot find name 'game'.
+
+soundEffect.ts(310,22): error TS2339: Property 'percentChance' does not exist on type 'typeof Math'.
+
+soundEffect.ts(320,67): error TS2339: Property 'percentChance' does not exist on type 'typeof Math'.
+
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\mixer---nrf52
+playable.ts(36,9): error TS2304: Cannot find name 'game'.
+
+playable.ts(40,9): error TS2304: Cannot find name 'game'.
+
+soundEffect.ts(310,22): error TS2339: Property 'percentChance' does not exist on type 'typeof Math'.
+
+soundEffect.ts(320,67): error TS2339: Property 'percentChance' does not exist on type 'typeof Math'.
+
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\mixer---samd
+playable.ts(36,9): error TS2304: Cannot find name 'game'.
+
+playable.ts(40,9): error TS2304: Cannot find name 'game'.
+
+soundEffect.ts(310,22): error TS2339: Property 'percentChance' does not exist on type 'typeof Math'.
+
+soundEffect.ts(320,67): error TS2339: Property 'percentChance' does not exist on type 'typeof Math'.
+
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\mixer---stm32
+playable.ts(36,9): error TS2304: Cannot find name 'game'.
+
+playable.ts(40,9): error TS2304: Cannot find name 'game'.
+
+soundEffect.ts(310,22): error TS2339: Property 'percentChance' does not exist on type 'typeof Math'.
+
+soundEffect.ts(320,67): error TS2339: Property 'percentChance' does not exist on type 'typeof Math'.
+
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\mixer---rp2040
+playable.ts(36,9): error TS2304: Cannot find name 'game'.
+
+playable.ts(40,9): error TS2304: Cannot find name 'game'.
+
+soundEffect.ts(310,22): error TS2339: Property 'percentChance' does not exist on type 'typeof Math'.
+
+soundEffect.ts(320,67): error TS2339: Property 'percentChance' does not exist on type 'typeof Math'.
+
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\mouse
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\mqtt
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\multiplayer
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\net
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\net-game
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\palette
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\power
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\radio
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\radio-broadcast
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\rotary-encoder
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\rpiprj
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\screen
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\screen---ext
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\screen---linux
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\screen---st7735
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\serial
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\serial---linux
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\servo
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\settings
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\settings---files
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\sevenseg
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\sprite-scaling
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\storyboard
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\template
+building C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\libs\thermometer
+looking for tutorial markdown in skillmap/space
+looking for tutorial markdown in skillmap/platformer
+{ Error: Missing dependencies in config of: core
+    at Object.userError (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:98702:25)
+    at Package.validateConfig (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113045:23)
+    at Package.parseConfig (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113274:18)
+    at initPromise.then (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113333:59)
+    at process._tickCallback (internal/process/next_tick.js:68:7) isUserError: true }
+{ Error: Missing dependencies in config of: core
+    at Object.userError (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:98702:25)
+    at Package.validateConfig (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113045:23)
+    at Package.parseConfig (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113274:18)
+    at initPromise.then (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113333:59)
+    at process._tickCallback (internal/process/next_tick.js:68:7) isUserError: true }
+{ Error: Missing dependencies in config of: core
+    at Object.userError (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:98702:25)
+    at Package.validateConfig (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113045:23)
+    at Package.parseConfig (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113274:18)
+    at initPromise.then (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113333:59)
+    at process._tickCallback (internal/process/next_tick.js:68:7) isUserError: true }
+{ Error: Missing dependencies in config of: core
+    at Object.userError (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:98702:25)
+    at Package.validateConfig (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113045:23)
+    at Package.parseConfig (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113274:18)
+    at initPromise.then (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113333:59)
+    at process._tickCallback (internal/process/next_tick.js:68:7) isUserError: true }
+{ Error: Missing dependencies in config of: core
+    at Object.userError (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:98702:25)
+    at Package.validateConfig (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113045:23)
+    at Package.parseConfig (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113274:18)
+    at initPromise.then (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113333:59)
+    at process._tickCallback (internal/process/next_tick.js:68:7) isUserError: true }
+{ Error: Missing dependencies in config of: core
+    at Object.userError (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:98702:25)
+    at Package.validateConfig (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113045:23)
+    at Package.parseConfig (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113274:18)
+    at initPromise.then (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113333:59)
+    at process._tickCallback (internal/process/next_tick.js:68:7) isUserError: true }
+{ Error: Missing dependencies in config of: core
+    at Object.userError (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:98702:25)
+    at Package.validateConfig (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113045:23)
+    at Package.parseConfig (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113274:18)
+    at initPromise.then (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113333:59)
+    at process._tickCallback (internal/process/next_tick.js:68:7) isUserError: true }
+{ Error: Missing dependencies in config of: core
+    at Object.userError (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:98702:25)
+    at Package.validateConfig (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113045:23)
+    at Package.parseConfig (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113274:18)
+    at initPromise.then (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113333:59)
+    at process._tickCallback (internal/process/next_tick.js:68:7) isUserError: true }
+{ Error: Missing dependencies in config of: core
+    at Object.userError (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:98702:25)
+    at Package.validateConfig (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113045:23)
+    at Package.parseConfig (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113274:18)
+    at initPromise.then (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113333:59)
+    at process._tickCallback (internal/process/next_tick.js:68:7) isUserError: true }
+{ Error: Missing dependencies in config of: core
+    at Object.userError (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:98702:25)
+    at Package.validateConfig (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113045:23)
+    at Package.parseConfig (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113274:18)
+    at initPromise.then (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113333:59)
+    at process._tickCallback (internal/process/next_tick.js:68:7) isUserError: true }
+{ Error: Missing dependencies in config of: core
+    at Object.userError (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:98702:25)
+    at Package.validateConfig (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113045:23)
+    at Package.parseConfig (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113274:18)
+    at initPromise.then (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113333:59)
+    at process._tickCallback (internal/process/next_tick.js:68:7) isUserError: true }
+{ Error: Missing dependencies in config of: core
+    at Object.userError (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:98702:25)
+    at Package.validateConfig (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113045:23)
+    at Package.parseConfig (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113274:18)
+    at initPromise.then (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113333:59)
+    at process._tickCallback (internal/process/next_tick.js:68:7) isUserError: true }
+{ Error: Missing dependencies in config of: core
+    at Object.userError (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:98702:25)
+    at Package.validateConfig (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113045:23)
+    at Package.parseConfig (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113274:18)
+    at initPromise.then (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113333:59)
+    at process._tickCallback (internal/process/next_tick.js:68:7) isUserError: true }
+{ Error: Missing dependencies in config of: core
+    at Object.userError (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:98702:25)
+    at Package.validateConfig (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113045:23)
+    at Package.parseConfig (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113274:18)
+    at initPromise.then (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113333:59)
+    at process._tickCallback (internal/process/next_tick.js:68:7) isUserError: true }
+{ Error: Missing dependencies in config of: core
+    at Object.userError (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:98702:25)
+    at Package.validateConfig (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113045:23)
+    at Package.parseConfig (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113274:18)
+    at initPromise.then (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113333:59)
+    at process._tickCallback (internal/process/next_tick.js:68:7) isUserError: true }
+{ Error: Missing dependencies in config of: core
+    at Object.userError (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:98702:25)
+    at Package.validateConfig (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113045:23)
+    at Package.parseConfig (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113274:18)
+    at initPromise.then (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113333:59)
+    at process._tickCallback (internal/process/next_tick.js:68:7) isUserError: true }
+{ Error: Missing dependencies in config of: core
+    at Object.userError (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:98702:25)
+    at Package.validateConfig (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113045:23)
+    at Package.parseConfig (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113274:18)
+    at initPromise.then (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:113333:59)
+    at process._tickCallback (internal/process/next_tick.js:68:7) isUserError: true }
+cached tutorial used blocks
+building bundled libs/animation
+Updating cached API info for animation
+building bundled libs/accelerometer
+Updating cached API info for accelerometer
+building bundled libs/azureiot
+Updating cached API info for azureiot
+building bundled libs/base
+Updating cached API info for base
+building bundled libs/buttons
+Updating cached API info for buttons
+building bundled libs/color
+Updating cached API info for color
+building bundled libs/color-coded-tilemap
+Updating cached API info for color-coded-tilemap
+building bundled libs/controller
+Updating cached API info for controller
+building bundled libs/controller---none
+Updating cached API info for controller---none
+building bundled libs/core
+Updating cached API info for core
+building bundled libs/core---linux
+Updating cached API info for core---linux
+building bundled libs/core---nrf52
+Updating cached API info for core---nrf52
+building bundled libs/core---samd
+Updating cached API info for core---samd
+building bundled libs/core---stm32
+Updating cached API info for core---stm32
+building bundled libs/core---rp2040
+Updating cached API info for core---rp2040
+building bundled libs/core---vm
+Updating cached API info for core---vm
+building bundled libs/corgio
+Updating cached API info for corgio
+building bundled libs/d5prj
+Updating cached API info for d5prj
+building bundled libs/darts
+Updating cached API info for darts
+building bundled libs/device
+Updating cached API info for device
+building bundled libs/edge-connector
+Updating cached API info for edge-connector
+building bundled libs/esp32
+Updating cached API info for esp32
+building bundled libs/f4prj
+Updating cached API info for f4prj
+building bundled libs/feather
+Updating cached API info for feather
+building bundled libs/game
+Updating cached API info for game
+building bundled libs/game---light
+Updating cached API info for game---light
+building bundled libs/hw
+Updating cached API info for hw
+building bundled libs/hw---n3
+Updating cached API info for hw---n3
+building bundled libs/hw---n4
+Updating cached API info for hw---n4
+building bundled libs/hw---rpi
+device.d.ts(1,1): error TS9200: TextEncoder is not defined
+
+
+***
+*** Build failed: target build failed: Compiler test failed
+Error: Compiler test failed
+    at Object.userError (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:98702:25)
+    at mainPkg.loadAsync.then.then.then.res (C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core\built\pxt.js:163712:19)
+***
+
+Starting server in C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade
+With pxt core at C:\Users\aqee\Downloads\gitForks\FillTriangle\pxt-arcade\node_modules\pxt-core
+starting local ws server at 3233...
+---------------------------------------------
+
+To launch the editor, open this URL:
+http://localhost:3232/#local_token=bd29660b-84d4-4ff3-3a94-5160b0800b2f&wsport=3233
+
+---------------------------------------------
+opening http://localhost:3232/#local_token=bd29660b-84d4-4ff3-3a94-5160b0800b2f&wsport=3233
